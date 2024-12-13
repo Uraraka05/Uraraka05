@@ -135,7 +135,7 @@ class Booking {
 }
 
 
-public class Main {
+public class TicketBooking {
 
     /**
      * @param args the command line arguments
